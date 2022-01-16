@@ -23,7 +23,7 @@ function App() {
           <Link to="/Profile">Profile</Link>
         </li>
         <li>
-          <Link to="/dashboard">Dashboard</Link>
+          <Link to="/dashboard">Dashboard11</Link>
         </li>
       </ul>
 
